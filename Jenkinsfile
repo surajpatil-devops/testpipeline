@@ -1,4 +1,3 @@
-job('example') {
   parameters {
     wHideParameterDefinition {
       name('FOO')
@@ -6,4 +5,3 @@ job('example') {
       description('lorem ipsum')
     } 
   }
-}
